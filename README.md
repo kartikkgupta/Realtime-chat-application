@@ -1,1 +1,1 @@
-# Realtime-chat-application-with-encryption
+# Realtime-chat-application
